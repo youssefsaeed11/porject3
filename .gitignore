@@ -1,0 +1,7 @@
+# Workspace settings
+.DS_Store
+.vscode/*
+
+# Node.js modules
+frontend/node_modules/*
+backend/node_modules/*
